@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Utilizei **Rails 5.1.6** no back-end em forma de API.
+Utilizei **Angular 2** no front-end.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tutorial disponivel  em [OneBitCode](https://onebitcode.com/rails-angular/)
