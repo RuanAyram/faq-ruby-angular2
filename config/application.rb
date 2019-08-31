@@ -24,7 +24,7 @@ module Faq
         config.middleware.insert_before 0, Rack::Cors do
             allow do
                 origins '*'
-                resource '*', :headers => :any, :methods => [:get, :post, :options, :delete, :put]
+                resource '*', headers: :any, methods: [:get, :post, :options, :delete, :put]
             end
         end
         # Settings in config/environments/* take precedence over those specified here.
